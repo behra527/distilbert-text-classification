@@ -17,5 +17,4 @@ This project is designed to help users find relevant jobs based on their mention
 - **Framework:** PyTorch
 - **Trained On:** Custom dataset containing user skills and job mappings
 
-## 📁 Folder Structure
 
